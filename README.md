@@ -64,27 +64,8 @@ pytest
 - Analytics
 - GET /analytics/sales – Relatórios de vendas
 
-  📌 *Exemplo de requisição e resposta*
-GET /api/PeopleApi/GetAllPeople
-Requisição (via cURL):
-curl -X 'GET' \
-  'https://localhost:7067/api/PeopleApi/GetAllPeople' \
-  -H 'accept: application/json'
+  
 
-
-Resposta (200 OK):
-[
-  {
-    "firstName": "Tanasha Fode",
-    "lastName": "Tildenbaum",
-    "age": 33
-  },
-  {
-    "firstName": "Tanasha Fode",
-    "lastName": "Tildenbaum",
-    "age": 33
-  }
-]
 
 
 
