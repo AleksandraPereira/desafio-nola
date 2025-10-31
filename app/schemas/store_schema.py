@@ -8,4 +8,4 @@ class StoreOut(StoreCreate):
     id: int
 
     class Config:
-        from_attributes = True  # Corrigido: indentado corretamente dentro da classe
+        from_attributes = True  
