@@ -18,6 +18,7 @@ A arquitetura foi pensada para ser modular, escalável e de fácil manutenção,
 - Pytest (testes automatizados)
   
 📂 *Estrutura do projeto*
+
 desafio-nola/
  ├── app/
  │   ├── controllers/   # Endpoints da API
@@ -92,6 +93,7 @@ Resposta (200 OK):
     "age": 33
   }
 ]
+
 
 
 
