@@ -49,7 +49,7 @@ uvicorn app.main:app --reload
 📖 *Documentação*
 Acesse a documentação interativa em:
 - Swagger UI: http://localhost:8000/docs
-- ReDoc: http://localhost:8000/redoc
+  
 🧪 Testes
 Execute os testes com:
 pytest
@@ -92,6 +92,7 @@ Resposta (200 OK):
     "age": 33
   }
 ]
+
 
 
 
