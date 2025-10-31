@@ -1,3 +1,8 @@
+![Python](https://img.shields.io/badge/python-3.10%2B-blue)
+![FastAPI](https://img.shields.io/badge/FastAPI-0.95+-green)
+![License](https://img.shields.io/badge/license-MIT-yellow)
+![Tests](https://img.shields.io/badge/tests-passing-brightgreen)
+
 🛒 *Desafio Nola*
 
 Este projeto foi desenvolvido como parte de um desafio técnico com o objetivo de criar uma aplicação que facilite o gerenciamento de pedidos, cadastros de clientes e controle de estoque.
@@ -65,6 +70,7 @@ pytest
 - GET /analytics/sales – Relatórios de vendas
 
   
+
 
 
 
