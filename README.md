@@ -19,15 +19,7 @@ A arquitetura foi pensada para ser modular, escalável e de fácil manutenção,
   
 📂 *Estrutura do projeto*
 
-desafio-nola/
- ├── app/
- │   ├── controllers/   # Endpoints da API
- │   ├── models/        # Modelos do banco
- │   ├── schemas/       # Validação e serialização
- │   ├── services/      # Regras de negócio
- │   ├── database.py    # Configuração do banco
- │   └── main.py        # Ponto de entrada
- └── venv/              # Ambiente virtual
+<img width="684" height="195" alt="Image" src="https://github.com/user-attachments/assets/bf1dd2ef-dff0-4f5c-983e-f3ad6d3c15fe" />
 
 
 ⚙️ *Como rodar o projeto*
@@ -93,6 +85,7 @@ Resposta (200 OK):
     "age": 33
   }
 ]
+
 
 
 
