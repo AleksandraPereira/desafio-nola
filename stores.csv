@@ -1,0 +1,101 @@
+id,brand_id,sub_brand_id,name,city,state,district,address_street,address_number,zipcode,latitude,longitude,is_active,is_own,is_holding,creation_date,created_at
+1,1,2,da Rosa - Duarte,Duarte,AC,Boa Viagem,Jardim Ryan Oliveira,2381,,-24.169620,-48.807401,t,f,f,2025-03-20,2025-01-15 12:28:28.282272
+2,1,2,Santos Novaes Ltda. - da Paz,da Paz,AC,Boa União 2ª Seção,Praça de Dias,624,,-22.379310,-47.003984,t,f,f,2025-10-23,2025-03-13 12:28:28.287506
+3,1,2,Oliveira S.A. - Moraes da Mata,Moraes da Mata,ES,Vila Jardim São José,Trevo Pinto,7720,,-23.190730,-49.142466,t,f,f,2025-03-15,2024-02-02 12:28:28.288645
+4,1,3,Costa Ltda. - Monteiro Grande,Monteiro Grande,MT,Vila Jardim Montanhes,Esplanada Castro,6533,,-23.696880,-43.874679,t,f,f,2025-07-16,2024-12-15 12:28:28.289691
+5,1,3,Gonçalves S/A - Lopes de Nogueira,Lopes de Nogueira,MG,Vila São João Batista,Fazenda Sofia Nogueira,40,,-23.635892,-43.604120,t,f,f,2025-09-26,2025-01-11 12:28:28.291321
+6,1,1,Gomes da Conceição e Filhos - Teixeira,Teixeira,AC,Paraíso,Quadra Miguel da Paz,2061,,-21.952913,-47.099865,t,t,f,2025-07-01,2025-03-11 12:28:28.293016
+7,1,1,Silveira Moraes - ME - Lopes de Nogueira,Lopes de Nogueira,AC,Cidade Nova,Colônia Ana Luiza Cunha,1999,,-22.701757,-46.093717,t,f,f,2025-10-04,2024-11-01 12:28:28.294869
+8,1,3,Nascimento - Moraes da Mata,Moraes da Mata,DF,Conjunto Capitão Eduardo,Parque de Fogaça,7099,,-24.323158,-47.705983,t,t,f,2024-07-10,2024-04-08 12:28:28.296161
+9,1,1,da Costa Ramos S/A - da Paz,da Paz,PE,Minas Brasil,Ladeira Gomes,3274,,-22.580168,-47.421311,t,t,f,2025-09-10,2024-09-20 12:28:28.297986
+10,1,1,Monteiro e Filhos - Caldeira do Campo,Caldeira do Campo,CE,Santa Branca,Morro Maria das Neves,3829,,-24.935444,-48.358906,t,f,f,2023-12-11,2024-12-23 12:28:28.300327
+11,1,2,Lopes - Nascimento,Nascimento,CE,São Cristóvão,Distrito de Silva,5723,,-23.556966,-47.713418,t,t,f,2025-09-23,2025-02-11 12:28:28.301602
+12,1,1,Almeida - Costa do Sul,Costa do Sul,MA,Nova Pampulha,Residencial Maria Fernanda Nogueira,3831,,-22.755637,-45.759060,t,f,f,2024-09-16,2025-04-28 12:28:28.302688
+13,1,3,Monteiro Cardoso Ltda. - Rocha,Rocha,PB,Ápia,Morro Paulo da Cunha,9046,,-24.554449,-46.995748,t,t,f,2024-04-06,2024-01-15 12:28:28.303704
+14,1,1,Sales - Souza,Souza,GO,Canaa,Sítio de Silveira,3909,,-24.157716,-46.495022,t,f,f,2024-11-28,2025-01-18 12:28:28.304598
+15,1,2,Duarte - da Paz,da Paz,AC,Vila Olhos D'água,Área da Luz,1471,,-23.555821,-44.912339,t,t,f,2024-07-27,2024-02-15 12:28:28.305406
+16,1,1,Nascimento S.A. - Rocha,Rocha,SC,Vila Jardim São José,Condomínio Benjamin da Costa,5098,,-22.741149,-47.168425,t,f,f,2024-05-22,2024-11-19 12:28:28.306255
+17,1,2,Azevedo - Moraes da Mata,Moraes da Mata,ES,Planalto,Feira Breno Alves,2650,,-23.590879,-48.972099,t,f,f,2024-06-20,2024-01-19 12:28:28.307285
+18,1,1,Costela - das Neves,das Neves,PI,São Francisco,Ladeira de Fogaça,8951,,-21.602280,-44.060237,t,t,f,2024-08-16,2024-07-15 12:28:28.309082
+19,1,2,Moraes - Monteiro Grande,Monteiro Grande,DF,Grotinha,Rodovia de Rocha,7721,,-24.207066,-48.092090,t,f,f,2025-02-15,2024-03-04 12:28:28.310425
+20,1,3,Campos - EI - Nascimento,Nascimento,RJ,Vila Cloris,Travessa Theo Pires,4871,,-25.469051,-46.899789,t,f,f,2024-07-04,2024-10-21 12:28:28.311996
+21,1,2,Souza Cardoso - ME - Azevedo,Azevedo,MT,Horto Florestal,Parque Ana Vitória Costa,9768,,-22.442124,-43.756968,t,t,f,2024-07-15,2024-10-26 12:28:28.314324
+22,1,2,Castro - Lopes de Nogueira,Lopes de Nogueira,MG,Vila Olhos D'água,Aeroporto da Rocha,8908,,-22.471424,-45.970132,t,t,f,2024-03-26,2024-07-11 12:28:28.315439
+23,1,3,Castro - das Neves,das Neves,BA,Vila Cloris,Loteamento Pereira,6281,,-22.884621,-47.668714,t,t,f,2024-07-17,2024-09-02 12:28:28.316314
+24,1,2,Cunha Porto - EI - Costela do Sul,Costela do Sul,SP,Maria Goretti,Passarela Ferreira,80,,-24.867917,-46.875532,t,f,f,2024-07-04,2024-12-21 12:28:28.317185
+25,1,2,Peixoto - Costela,Costela,AM,Cachoeirinha,Núcleo de Moreira,2469,,-22.587127,-47.719489,t,t,f,2025-06-01,2024-08-05 12:28:28.318008
+26,1,2,Jesus S.A. - Duarte,Duarte,MG,Olhos D'água,Distrito de Novaes,4079,,-23.360839,-47.455635,t,t,f,2024-07-02,2025-05-01 12:28:28.318818
+27,1,2,Ramos - Azevedo,Azevedo,RN,Jonas Veiga,Vale de Alves,2634,,-25.199065,-44.143006,t,f,f,2025-08-13,2025-03-04 12:28:28.319672
+28,1,1,Correia - Melo,Melo,RR,Vila Atila De Paiva,Rua Lopes,3053,,-21.962044,-47.177834,t,t,f,2025-05-07,2024-07-23 12:28:28.320628
+29,1,1,Mendes - da Paz,da Paz,PB,Vila Suzana Primeira Seção,Morro de da Rosa,978,,-22.324416,-46.593685,t,f,f,2025-04-27,2024-06-29 12:28:28.321532
+30,1,3,Nascimento S.A. - Costela,Costela,RJ,Santa Rita De Cássia,Vereda Breno da Cunha,2273,,-24.589883,-48.809119,t,f,f,2025-09-17,2024-01-10 12:28:28.322435
+31,1,1,Vieira e Filhos - Monteiro Grande,Monteiro Grande,MS,Cachoeirinha,Vereda Maria Fernandes,9906,,-22.256936,-47.215667,t,f,f,2025-08-04,2025-04-19 12:28:28.323339
+32,1,2,das Neves - Duarte,Duarte,RS,Bonfim,Distrito de da Rosa,6861,,-21.544411,-48.910149,t,f,f,2024-06-10,2024-06-16 12:28:28.324849
+33,1,3,Ferreira Martins - EI - Costela do Sul,Costela do Sul,SP,Vila Paris,Largo de Monteiro,5909,,-22.264649,-46.336187,t,f,f,2023-11-02,2024-08-22 12:28:28.327301
+34,1,3,Castro - Alves,Alves,MG,São Gonçalo,Núcleo João Vitor Fogaça,8485,,-22.333882,-47.728486,t,t,f,2024-05-08,2024-05-30 12:28:28.328649
+35,1,2,Duarte - Costela,Costela,ES,Nossa Senhora Da Aparecida,Sítio Gonçalves,2095,,-24.294527,-49.213400,t,f,f,2025-05-08,2024-10-17 12:28:28.32992
+36,1,3,Moura - Caldeira do Campo,Caldeira do Campo,RO,Vila Suzana Segunda Seção,Condomínio Eduarda da Cunha,4887,,-24.571813,-47.597834,t,f,f,2025-05-14,2025-02-10 12:28:28.331151
+37,1,3,Costela - Rocha,Rocha,RR,Miramar,Via de Castro,905,,-25.215492,-47.246861,t,f,f,2025-02-05,2024-01-09 12:28:28.33209
+38,1,1,Mendes Vieira S/A - Caldeira do Campo,Caldeira do Campo,PI,Vila Sesc,Vale Rebeca Gonçalves,7316,,-21.761250,-44.941705,t,f,f,2025-05-21,2024-09-15 12:28:28.332944
+39,1,1,Rocha - Nascimento,Nascimento,SC,Nova Gameleira,Lagoa Mendes,4050,,-25.391303,-47.124774,t,t,f,2025-10-22,2024-09-26 12:28:28.333884
+40,1,1,Barbosa - da Paz,da Paz,PR,Boa União 1ª Seção,Vila de Ferreira,3876,,-21.995241,-47.446781,t,f,f,2024-07-16,2024-06-13 12:28:28.334824
+41,1,2,Almeida - Duarte,Duarte,AM,Silveira,Viaduto Miguel Ferreira,5648,,-22.568974,-48.052810,t,f,f,2025-01-18,2024-12-19 12:28:28.335684
+42,1,3,Fernandes Aragão e Filhos - Melo,Melo,MA,Anchieta,Ladeira Jesus,7841,,-22.378696,-45.662655,t,f,f,2024-05-23,2025-04-27 12:28:28.336559
+43,1,2,Moreira - Azevedo,Azevedo,RJ,Boa Vista,Condomínio Gomes,38,,-22.735101,-43.968173,t,f,f,2025-09-08,2024-02-15 12:28:28.337398
+44,1,1,Teixeira - Costela,Costela,AL,Minas Brasil,Lagoa de Pires,6362,,-21.872880,-49.177218,t,f,f,2024-07-04,2024-12-19 12:28:28.338219
+45,1,1,Dias S.A. - Lopes de Nogueira,Lopes de Nogueira,RR,Vila São João Batista,Esplanada de Cunha,5716,,-24.823746,-49.361652,t,t,f,2024-03-21,2024-07-14 12:28:28.339028
+46,1,2,da Cruz Jesus e Filhos - Mendes,Mendes,SP,Ribeiro De Abreu,Lago Moraes,5059,,-24.684309,-46.353781,t,f,f,2024-04-26,2024-04-25 12:28:28.340062
+47,1,1,Caldeira - Costela do Sul,Costela do Sul,PR,Vila Real 1ª Seção,Chácara Monteiro,6774,,-25.138224,-47.564757,t,t,f,2024-05-25,2025-02-22 12:28:28.341245
+48,1,3,Pires Moura Ltda. - Rocha,Rocha,RR,Morro Dos Macacos,Praça Lorena Fernandes,9827,,-24.845338,-48.636240,t,f,f,2024-01-06,2023-11-14 12:28:28.342202
+49,1,2,Peixoto - EI - Costa do Sul,Costa do Sul,TO,Conjunto Serra Verde,Área Rocha,2323,,-22.559033,-48.163685,t,f,f,2024-11-04,2025-02-16 12:28:28.342997
+50,1,3,Cavalcanti e Filhos - Lopes de Nogueira,Lopes de Nogueira,AP,Morro Dos Macacos,Largo Milena Pereira,4237,,-22.417298,-45.424366,t,f,f,2024-11-22,2024-08-13 12:28:28.34383
+51,1,6,Souza S.A. - Caldeira,Caldeira,TO,Conjunto Celso Machado,Ladeira Diogo da Paz,2718,,-24.138488,-45.545094,t,t,f,2025-09-30,2023-11-13 14:05:50.803656
+52,1,4,Fogaça Santos S.A. - Sá,Sá,SP,Copacabana,Sítio Luiz Felipe das Neves,4871,,-22.415186,-45.150189,t,f,f,2024-06-24,2024-11-25 14:05:50.815257
+53,1,4,Souza - Albuquerque de da Mata,Albuquerque de da Mata,PR,Eymard,Lago de Fonseca,4980,,-22.827602,-44.186552,t,f,f,2024-08-28,2025-02-01 14:05:50.81715
+54,1,5,Porto - Barros,Barros,RR,Serra,Jardim Lopes,512,,-23.838857,-46.418779,t,f,f,2024-06-03,2024-12-20 14:05:50.819936
+55,1,4,Rodrigues - Teixeira,Teixeira,MA,Casa Branca,Passarela da Rocha,8672,,-24.902002,-45.864700,t,f,f,2024-07-10,2023-12-11 14:05:50.823243
+56,1,6,Souza das Neves S/A - Rezende,Rezende,BA,Paraíso,Trecho de Vasconcelos,8320,,-22.308421,-46.236615,t,f,f,2024-03-11,2024-05-28 14:05:50.824719
+57,1,4,Nunes - Teixeira,Teixeira,AC,Vila Paris,Estação Teixeira,872,,-22.621529,-47.405446,t,t,f,2024-10-30,2024-12-22 14:05:50.826573
+58,1,5,Gomes Freitas - ME - Martins de Minas,Martins de Minas,AC,Vila Da Luz,Esplanada de Moreira,8679,,-22.006111,-46.160837,t,f,f,2024-08-17,2024-08-16 14:05:50.828779
+59,1,6,Fonseca Ltda. - Caldeira,Caldeira,MT,Vila Engenho Nogueira,Recanto de Macedo,7978,,-23.686604,-46.634699,t,f,f,2025-08-11,2025-01-05 14:05:50.83054
+60,1,5,Barbosa S.A. - Teixeira,Teixeira,PI,Jaraguá,Lagoa João Guilherme Rezende,3028,,-24.088641,-44.054774,t,f,f,2025-01-05,2023-12-14 14:05:50.832484
+61,1,5,Silva - Rezende,Rezende,AC,Aparecida,Lago Kevin da Luz,7675,,-22.279388,-47.052484,t,f,f,2023-12-07,2024-05-17 14:05:50.834944
+62,1,4,Mendes S/A - Fonseca Paulista,Fonseca Paulista,RJ,Floresta,Residencial de Gonçalves,9929,,-22.353292,-49.256282,t,f,f,2024-02-16,2024-09-05 14:05:50.836629
+63,1,6,da Cunha - Azevedo do Sul,Azevedo do Sul,PE,Beira Linha,Distrito Sabrina Pacheco,8520,,-24.947952,-46.414368,t,t,f,2024-05-04,2024-05-05 14:05:50.838711
+64,1,5,Vasconcelos Casa Grande e Filhos - Ramos,Ramos,TO,Goiania,Vila de Ferreira,3918,,-25.221185,-47.178295,t,f,f,2024-02-16,2023-11-11 14:05:50.840049
+65,1,4,Pacheco - da Mata de Gonçalves,da Mata de Gonçalves,GO,Conjunto Capitão Eduardo,Vale de Lopes,2590,,-23.839878,-44.308512,t,f,f,2024-04-20,2024-11-26 14:05:50.841621
+66,1,4,da Luz S.A. - Fonseca Paulista,Fonseca Paulista,PE,São Francisco Das Chagas,Sítio Sophie Vasconcelos,5751,,-23.643134,-46.580058,t,f,f,2025-06-21,2024-08-05 14:05:50.843332
+67,1,4,Ramos - Martins de Minas,Martins de Minas,SE,Comiteco,Passarela Maria Luiza da Luz,7620,,-24.262062,-44.066865,t,f,f,2024-03-01,2024-03-12 14:05:50.84575
+68,1,4,Pires - Azevedo do Sul,Azevedo do Sul,TO,Conjunto Paulo Vi,Feira Caio da Cruz,8860,,-21.677974,-47.523055,t,f,f,2025-01-05,2025-01-13 14:05:50.848741
+69,1,4,Vargas S.A. - Teixeira,Teixeira,DF,Ventosa,Vereda Marques,8696,,-23.751307,-48.300843,t,t,f,2025-10-07,2025-01-04 14:05:50.85101
+70,1,5,Alves - da Rosa de Nascimento,da Rosa de Nascimento,RR,Santa Rita,Estrada de Aparecida,1369,,-23.258476,-48.820220,t,f,f,2024-05-24,2025-02-21 14:05:50.852621
+71,1,6,da Cunha - Ramos,Ramos,CE,Nova Esperança,Condomínio Isabelly Sampaio,8645,,-24.705416,-48.662782,t,f,f,2025-08-19,2024-09-04 14:05:50.854128
+72,1,6,Ribeiro Ltda. - da Rosa de Nascimento,da Rosa de Nascimento,AC,Vila Ecológica,Favela de Silveira,6046,,-23.211167,-44.518307,t,t,f,2025-01-25,2025-02-06 14:05:50.855804
+73,1,5,Rios - EI - da Rosa de Nascimento,da Rosa de Nascimento,SC,Conjunto Celso Machado,Jardim Yago Carvalho,3332,,-23.341648,-47.825066,t,f,f,2023-12-25,2024-10-13 14:05:50.857195
+74,1,6,Santos Viana S/A - Sá,Sá,MA,Cabana Do Pai Tomás,Via Gabriela da Paz,9551,,-23.421951,-48.952277,t,f,f,2025-03-08,2024-11-12 14:05:50.858521
+75,1,6,Santos Rocha Ltda. - Ramos,Ramos,TO,Tirol,Rua Dias,2026,,-25.368077,-47.808264,t,t,f,2025-07-31,2024-12-20 14:05:50.85983
+76,1,6,Cavalcanti - Ramos,Ramos,MS,Vila Cemig,Avenida de Abreu,3968,,-24.455464,-47.729344,t,f,f,2025-05-13,2024-07-12 14:05:50.861088
+77,1,4,Freitas S/A - Barros,Barros,MA,Vila Santa Rosa,Vale Noah Oliveira,8636,,-25.051018,-44.078304,f,f,f,2025-08-30,2025-01-10 14:05:50.862263
+78,1,4,Casa Grande - Azevedo do Sul,Azevedo do Sul,PR,Santa Monica,Loteamento Daniela Nogueira,6021,,-22.254415,-44.384078,t,t,f,2024-03-11,2024-09-15 14:05:50.863297
+79,1,4,da Cunha Azevedo Ltda. - Melo,Melo,MS,Vila Sesc,Jardim Lopes,2876,,-24.580525,-49.438223,t,t,f,2024-06-08,2025-03-03 14:05:50.864417
+80,1,5,Ribeiro - Caldeira,Caldeira,DF,Coração Eucarístico,Núcleo de Silveira,5757,,-22.578564,-47.976839,t,f,f,2024-07-04,2023-11-20 14:05:50.865704
+81,1,4,Mendonça - EI - Melo,Melo,CE,Vila Rica,Favela de Fogaça,1444,,-23.343423,-47.245358,t,f,f,2025-05-24,2024-12-12 14:05:50.86693
+82,1,6,Ramos Gomes Ltda. - Barros,Barros,CE,Vila Nova Cachoeirinha 2ª Seção,Condomínio Marcos Vinicius Mendonça,1568,,-25.153852,-43.885435,t,f,f,2024-07-25,2024-08-26 14:05:50.868018
+83,1,5,Cavalcante - Fernandes Verde,Fernandes Verde,CE,Etelvina Carneiro,Parque Pastor,5921,,-22.607841,-44.213459,t,t,f,2024-07-31,2024-06-10 14:05:50.869287
+84,1,5,Pimenta Cunha - EI - Leão,Leão,PR,Custodinha,Passarela de Souza,4313,,-24.561610,-49.273451,t,f,f,2023-11-11,2024-04-11 14:05:50.870501
+85,1,6,Machado S.A. - Rezende,Rezende,SC,Biquinhas,Jardim de da Luz,3820,,-22.362879,-46.879704,t,f,f,2024-03-27,2025-02-14 14:05:50.871648
+86,1,6,Casa Grande - Sá,Sá,MG,Copacabana,Aeroporto Davi Lucas Sousa,881,,-24.109442,-45.733477,t,t,f,2025-09-05,2024-12-17 14:05:50.87283
+87,1,4,Brito - Moraes,Moraes,SP,Olaria,Conjunto de Cunha,1477,,-22.126877,-48.195111,t,f,f,2024-04-28,2024-04-29 14:05:50.874193
+88,1,4,Cassiano - Albuquerque de da Mata,Albuquerque de da Mata,SE,Cidade Nova,Setor Luna Cardoso,7262,,-21.665852,-46.058221,t,t,f,2025-04-15,2024-12-25 14:05:50.875363
+89,1,6,da Costa e Filhos - Fernandes Verde,Fernandes Verde,RO,Conjunto Paulo Vi,Vale Casa Grande,2846,,-24.327636,-44.814968,t,f,f,2024-04-22,2023-12-27 14:05:50.877013
+90,1,5,da Mota - Teixeira,Teixeira,SC,Vila De Sá,Parque de Siqueira,6135,,-23.674007,-48.105267,t,t,f,2025-10-26,2024-09-15 14:05:50.87826
+91,1,6,Nascimento - Martins,Martins,PR,Leonina,Fazenda de Carvalho,4578,,-25.378026,-48.543239,t,f,f,2025-08-02,2024-01-03 14:05:50.87943
+92,1,4,Borges da Mota Ltda. - Barros,Barros,RS,Boa União 2ª Seção,Trevo Calebe Almeida,5371,,-21.580805,-45.769627,t,f,f,2024-07-29,2024-03-27 14:05:50.880468
+93,1,6,Vargas - Azevedo do Sul,Azevedo do Sul,PB,Mineirão,Lagoa Machado,3355,,-23.220159,-44.719915,t,t,f,2025-03-19,2024-08-26 14:05:50.88157
+94,1,4,da Costa Jesus - EI - Barros,Barros,AM,Conjunto Taquaril,Área Augusto Santos,590,,-24.959498,-49.353650,t,f,f,2023-11-17,2024-06-02 14:05:50.882644
+95,1,6,Rios S.A. - Martins,Martins,PE,Vila Piratininga Venda Nova,Campo Ramos,850,,-24.964541,-43.990008,t,f,f,2024-04-08,2024-11-24 14:05:50.883857
+96,1,6,Ribeiro Ferreira S/A - da Mata de Gonçalves,da Mata de Gonçalves,AL,Vila Tirol,Aeroporto de Casa Grande,9999,,-23.048259,-49.177685,t,t,f,2024-04-12,2024-05-21 14:05:50.885041
+97,1,6,Sales - Ramos,Ramos,MG,São Francisco,Núcleo de Guerra,7948,,-22.350470,-48.824637,t,t,f,2025-06-14,2024-08-14 14:05:50.886205
+98,1,5,Martins e Filhos - Fernandes Verde,Fernandes Verde,PA,Pirineus,Trecho Ferreira,4190,,-25.228820,-46.432799,t,f,f,2024-09-24,2024-10-19 14:05:50.887331
+99,1,6,Abreu Oliveira - EI - da Mata de Gonçalves,da Mata de Gonçalves,PI,Conjunto Califórnia I,Vale de Costela,6170,,-21.924247,-48.377618,t,f,f,2025-05-04,2024-06-13 14:05:50.888423
+100,1,5,Pires e Filhos - Leão,Leão,RO,Coração Eucarístico,Viela Catarina Nascimento,4933,,-21.658248,-46.105770,t,f,f,2024-10-11,2024-01-28 14:05:50.890637
