@@ -3,7 +3,7 @@
 ![License](https://img.shields.io/badge/license-MIT-yellow)
 ![Tests](https://img.shields.io/badge/tests-passing-brightgreen)
 
-🛒 *Desafio Nola*
+🛒 *Desafio Noah*
 
 Este projeto foi desenvolvido como parte de um desafio técnico com o objetivo de criar uma aplicação que facilite o gerenciamento de pedidos, cadastros de clientes e controle de estoque.
 A API permite:
@@ -70,6 +70,7 @@ pytest
 - GET /analytics/sales – Relatórios de vendas
 
   
+
 
 
 
