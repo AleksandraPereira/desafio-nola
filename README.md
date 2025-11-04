@@ -69,7 +69,14 @@ pytest
 - Analytics
 - GET /analytics/sales – Relatórios de vendas
 
+  ## 📄 Documentação Técnica
+
+Para detalhes sobre as decisões arquiteturais do projeto, consulte o documento disponível em:
+
+👉 [`docs/README-arquitetura.md`](docs/README-arquitetura.md)
+
   
+
 
 
 
