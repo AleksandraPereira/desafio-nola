@@ -1,4 +1,5 @@
 🧩 Contexto
+
 O projeto tem como objetivo construir uma API RESTful para cadastro, consulta e importação de produtos, com foco em clareza, escalabilidade e facilidade de manutenção. A aplicação não possui frontend, mas precisa ser facilmente integrável com qualquer interface externa.
 
 🧠 Decisões Tomadas
