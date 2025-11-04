@@ -40,6 +40,7 @@ A arquitetura adotada prioriza clareza, organização e escalabilidade. Cada dec
 
 
 🗂️ Banco de Dados: SQLite (com observação sobre Postgres)
+
 Decisão original: O banco de dados planejado para este projeto era o PostgreSQL, por ser mais robusto e adequado para ambientes de produção.
 
 Decisão aplicada: Durante o desenvolvimento, foi utilizado o SQLite por engano. No entanto, essa escolha se mostrou funcional para o escopo do desafio, permitindo prototipagem rápida e persistência local sem dependências externas.
